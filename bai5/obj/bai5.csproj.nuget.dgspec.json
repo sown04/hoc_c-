@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nguyen Trung Son\\source\\repos\\bai5\\bai5.csproj": {}
+    "C:\\Users\\Nguyen Trung Son\\Downloads\\hoc_c#\\bai5\\bai5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nguyen Trung Son\\source\\repos\\bai5\\bai5.csproj": {
+    "C:\\Users\\Nguyen Trung Son\\Downloads\\hoc_c#\\bai5\\bai5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nguyen Trung Son\\source\\repos\\bai5\\bai5.csproj",
+        "projectUniqueName": "C:\\Users\\Nguyen Trung Son\\Downloads\\hoc_c#\\bai5\\bai5.csproj",
         "projectName": "bai5",
-        "projectPath": "C:\\Users\\Nguyen Trung Son\\source\\repos\\bai5\\bai5.csproj",
+        "projectPath": "C:\\Users\\Nguyen Trung Son\\Downloads\\hoc_c#\\bai5\\bai5.csproj",
         "packagesPath": "C:\\Users\\Nguyen Trung Son\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nguyen Trung Son\\source\\repos\\bai5\\obj\\",
+        "outputPath": "C:\\Users\\Nguyen Trung Son\\Downloads\\hoc_c#\\bai5\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

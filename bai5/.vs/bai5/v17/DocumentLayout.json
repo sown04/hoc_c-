@@ -1,0 +1,260 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nguyen Trung Son\\Downloads\\hoc_c#\\bai5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63580546-DB88-44B5-9295-F937D5860EFF}|..\\ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\nguyen trung son\\downloads\\hoc_c#\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C5F222A-1B05-4D3E-9030-0FA8AFF373A2}|..\\LinQ\\LinQ.csproj|c:\\users\\nguyen trung son\\downloads\\hoc_c#\\linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B37CDC-90E9-406C-9379-332181EE10F9}|..\\buoi7.3\\buoi7.3.csproj|c:\\users\\nguyen trung son\\downloads\\hoc_c#\\buoi7.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B37CDC-90E9-406C-9379-332181EE10F9}|..\\buoi7.3\\buoi7.3.csproj|c:\\users\\nguyen trung son\\downloads\\hoc_c#\\buoi7.3\\smsnotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B37CDC-90E9-406C-9379-332181EE10F9}|..\\buoi7.3\\buoi7.3.csproj|c:\\users\\nguyen trung son\\downloads\\hoc_c#\\buoi7.3\\emailnotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3B37CDC-90E9-406C-9379-332181EE10F9}|..\\buoi7.3\\buoi7.3.csproj|c:\\users\\nguyen trung son\\downloads\\hoc_c#\\buoi7.3\\inotifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D3E0135-8994-4959-B246-B56F9263A867}|..\\buoi7.2\\buoi7.2.csproj|c:\\users\\nguyen trung son\\downloads\\hoc_c#\\buoi7.2\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D3E0135-8994-4959-B246-B56F9263A867}|..\\buoi7.2\\buoi7.2.csproj|c:\\users\\nguyen trung son\\downloads\\hoc_c#\\buoi7.2\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D3E0135-8994-4959-B246-B56F9263A867}|..\\buoi7.2\\buoi7.2.csproj|c:\\users\\nguyen trung son\\downloads\\hoc_c#\\buoi7.2\\retangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D3E0135-8994-4959-B246-B56F9263A867}|..\\buoi7.2\\buoi7.2.csproj|c:\\users\\nguyen trung son\\downloads\\hoc_c#\\buoi7.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E0D680-806D-4A6C-966D-A9AD29AE1EA6}|..\\buoi7.1\\buoi7.1.csproj|c:\\users\\nguyen trung son\\downloads\\hoc_c#\\buoi7.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63580546-DB88-44B5-9295-F937D5860EFF}|..\\ConsoleApp1\\buoi7.csproj|c:\\users\\nguyen trung son\\downloads\\hoc_c#\\consoleapp1\\duck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63580546-DB88-44B5-9295-F937D5860EFF}|..\\ConsoleApp1\\buoi7.csproj|c:\\users\\nguyen trung son\\downloads\\hoc_c#\\consoleapp1\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63580546-DB88-44B5-9295-F937D5860EFF}|..\\ConsoleApp1\\buoi7.csproj|c:\\users\\nguyen trung son\\downloads\\hoc_c#\\consoleapp1\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63580546-DB88-44B5-9295-F937D5860EFF}|..\\ConsoleApp1\\buoi7.csproj|c:\\users\\nguyen trung son\\downloads\\hoc_c#\\consoleapp1\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nguyen Trung Son\\Downloads\\hoc_c#\\LinQ\\Program.cs",
+              "RelativeDocumentMoniker": "..\\LinQ\\Program.cs",
+              "ToolTip": "C:\\Users\\Nguyen Trung Son\\Downloads\\hoc_c#\\LinQ\\Program.cs",
+              "RelativeToolTip": "..\\LinQ\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwC8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T12:23:11.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SmsNotifier.cs",
+              "DocumentMoniker": "C:\\Users\\Nguyen Trung Son\\Downloads\\hoc_c#\\buoi7.3\\SmsNotifier.cs",
+              "RelativeDocumentMoniker": "..\\buoi7.3\\SmsNotifier.cs",
+              "ToolTip": "C:\\Users\\Nguyen Trung Son\\Downloads\\hoc_c#\\buoi7.3\\SmsNotifier.cs",
+              "RelativeToolTip": "..\\buoi7.3\\SmsNotifier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T11:54:58.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmailNotifier.cs",
+              "DocumentMoniker": "C:\\Users\\Nguyen Trung Son\\Downloads\\hoc_c#\\buoi7.3\\EmailNotifier.cs",
+              "RelativeDocumentMoniker": "..\\buoi7.3\\EmailNotifier.cs",
+              "ToolTip": "C:\\Users\\Nguyen Trung Son\\Downloads\\hoc_c#\\buoi7.3\\EmailNotifier.cs",
+              "RelativeToolTip": "..\\buoi7.3\\EmailNotifier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T11:52:22.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "INotifier.cs",
+              "DocumentMoniker": "C:\\Users\\Nguyen Trung Son\\Downloads\\hoc_c#\\buoi7.3\\INotifier.cs",
+              "RelativeDocumentMoniker": "..\\buoi7.3\\INotifier.cs",
+              "ToolTip": "C:\\Users\\Nguyen Trung Son\\Downloads\\hoc_c#\\buoi7.3\\INotifier.cs",
+              "RelativeToolTip": "..\\buoi7.3\\INotifier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T11:49:37.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nguyen Trung Son\\Downloads\\hoc_c#\\buoi7.3\\Program.cs",
+              "RelativeDocumentMoniker": "..\\buoi7.3\\Program.cs",
+              "ToolTip": "C:\\Users\\Nguyen Trung Son\\Downloads\\hoc_c#\\buoi7.3\\Program.cs",
+              "RelativeToolTip": "..\\buoi7.3\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T11:49:17.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Retangle.cs",
+              "DocumentMoniker": "C:\\Users\\Nguyen Trung Son\\Downloads\\hoc_c#\\buoi7.2\\Retangle.cs",
+              "RelativeDocumentMoniker": "..\\buoi7.2\\Retangle.cs",
+              "ToolTip": "C:\\Users\\Nguyen Trung Son\\Downloads\\hoc_c#\\buoi7.2\\Retangle.cs",
+              "RelativeToolTip": "..\\buoi7.2\\Retangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T11:30:02.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\Nguyen Trung Son\\Downloads\\hoc_c#\\buoi7.2\\Circle.cs",
+              "RelativeDocumentMoniker": "..\\buoi7.2\\Circle.cs",
+              "ToolTip": "C:\\Users\\Nguyen Trung Son\\Downloads\\hoc_c#\\buoi7.2\\Circle.cs",
+              "RelativeToolTip": "..\\buoi7.2\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T11:29:29.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IShape.cs",
+              "DocumentMoniker": "C:\\Users\\Nguyen Trung Son\\Downloads\\hoc_c#\\buoi7.2\\IShape.cs",
+              "RelativeDocumentMoniker": "..\\buoi7.2\\IShape.cs",
+              "ToolTip": "C:\\Users\\Nguyen Trung Son\\Downloads\\hoc_c#\\buoi7.2\\IShape.cs",
+              "RelativeToolTip": "..\\buoi7.2\\IShape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T11:14:55.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nguyen Trung Son\\Downloads\\hoc_c#\\buoi7.2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\buoi7.2\\Program.cs",
+              "ToolTip": "C:\\Users\\Nguyen Trung Son\\Downloads\\hoc_c#\\buoi7.2\\Program.cs",
+              "RelativeToolTip": "..\\buoi7.2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T11:13:20.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nguyen Trung Son\\Downloads\\hoc_c#\\buoi7.1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\buoi7.1\\Program.cs",
+              "ToolTip": "C:\\Users\\Nguyen Trung Son\\Downloads\\hoc_c#\\buoi7.1\\Program.cs",
+              "RelativeToolTip": "..\\buoi7.1\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T10:50:16.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Duck.cs",
+              "DocumentMoniker": "C:\\Users\\Nguyen Trung Son\\Downloads\\hoc_c#\\ConsoleApp1\\Duck.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp1\\Duck.cs",
+              "ToolTip": "C:\\Users\\Nguyen Trung Son\\Downloads\\hoc_c#\\ConsoleApp1\\Duck.cs",
+              "RelativeToolTip": "..\\ConsoleApp1\\Duck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T10:34:47.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Users\\Nguyen Trung Son\\Downloads\\hoc_c#\\ConsoleApp1\\Cat.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp1\\Cat.cs",
+              "ToolTip": "C:\\Users\\Nguyen Trung Son\\Downloads\\hoc_c#\\ConsoleApp1\\Cat.cs",
+              "RelativeToolTip": "..\\ConsoleApp1\\Cat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T10:34:37.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\Nguyen Trung Son\\Downloads\\hoc_c#\\ConsoleApp1\\Dog.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp1\\Dog.cs",
+              "ToolTip": "C:\\Users\\Nguyen Trung Son\\Downloads\\hoc_c#\\ConsoleApp1\\Dog.cs",
+              "RelativeToolTip": "..\\ConsoleApp1\\Dog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T10:34:06.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\Nguyen Trung Son\\Downloads\\hoc_c#\\ConsoleApp1\\Animal.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp1\\Animal.cs",
+              "ToolTip": "C:\\Users\\Nguyen Trung Son\\Downloads\\hoc_c#\\ConsoleApp1\\Animal.cs",
+              "RelativeToolTip": "..\\ConsoleApp1\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T10:33:31.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nguyen Trung Son\\Downloads\\hoc_c#\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\Nguyen Trung Son\\Downloads\\hoc_c#\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "..\\ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T10:31:41.757Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
